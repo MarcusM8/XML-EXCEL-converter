@@ -3,9 +3,8 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 
-ecorgan_url = "https://ecorgan.connectcenter.hu/feed/xml"  
-ecorgan_username = "ecorgan"  
-ecorgan_password = "blvTwEj6o"  
+ecorgan_url = "xyz"  
+ 
 
 urls = {
     "Well": "https://www.weltservis.sk/feed.php?pass=5ceed4d7bed8ae6a4ed7a39d9cbaabe8",
